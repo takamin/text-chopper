@@ -24,9 +24,9 @@ const text = [
 const chunks = TextChopper.chop(
     text, {chunkSize: 10});
 
-// chunk[0] == "ABCDEFG\r\n"
-// chunk[1] == "HIJKLMN\r\n"
-// chunk[2] == "OPQRSTU\r\n"
+// chunks[0] == "ABCDEFG\r\n"
+// chunks[1] == "HIJKLMN\r\n"
+// chunks[2] == "OPQRSTU\r\n"
 ```
 
 ## INSTALLATION
@@ -34,5 +34,5 @@ const chunks = TextChopper.chop(
 Use npm to install.
 
 ```bash
-# npm install --save text-chopper
+$ npm install --save text-chopper
 ```

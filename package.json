@@ -1,6 +1,6 @@
 {
   "name": "text-chopper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Chop a large text to array",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
     "parcel-bundler": "^1.12.4"
   },
   "dependencies": {},
-  "homepage": "https://bitbucket.org/takamin/text-chopper#readme",
+  "homepage": "https://github.com/takamin/text-chopper#readme",
   "eslintConfig": {
     "parserOptions": {
       "ecmaVersion": 2017
