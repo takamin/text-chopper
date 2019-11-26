@@ -25,7 +25,9 @@
     "mocha": "^6.2.2",
     "parcel-bundler": "^1.12.4"
   },
-  "dependencies": {},
+  "dependencies": {
+    "debug": "^4.1.1"
+  },
   "homepage": "https://github.com/takamin/text-chopper#readme",
   "eslintConfig": {
     "parserOptions": {
