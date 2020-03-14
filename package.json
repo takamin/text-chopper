@@ -1,6 +1,6 @@
 {
   "name": "text-chopper",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Chop a large text to array",
   "main": "index.js",
   "scripts": {
