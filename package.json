@@ -22,12 +22,12 @@
     "eslint": "^6.7.2",
     "jsdoc": "^3.6.3",
     "minami": "^1.2.3",
-    "mocha": "^6.2.2",
-    "parcel-bundler": "^1.12.4"
+    "mocha": "^10.2.0",
+    "parcel-bundler": "^1.12.5"
   },
   "dependencies": {
     "buffer": "^5.4.3",
-    "debug": "^4.1.1"
+    "debug": "^4.4.3"
   },
   "homepage": "https://github.com/takamin/text-chopper#readme",
   "eslintConfig": {
